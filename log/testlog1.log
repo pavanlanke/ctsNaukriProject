@@ -1,0 +1,654 @@
+2020-04-11 14:54:12,798 [main] INFO LogDemo - Chrome Driver Opened and navigated to Url
+2020-04-11 14:54:41,652 [main] INFO LogDemo - Chrome Driver Opened and navigated to Url
+2020-04-11 14:57:00,745 [main] INFO LogDemo - Chrome Driver Opened and navigated to Url
+2020-04-11 14:57:19,869 [main] INFO LogDemo - Chrome Driver Opened and navigated to Url
+2020-04-11 14:57:56,519 [main] INFO LogDemo - Chrome Driver Opened and navigated to Url
+2020-04-11 14:58:26,087 [main] INFO LogDemo - Chrome Driver Opened and navigated to Url
+2020-04-11 14:58:46,642 [main] INFO LogDemo - Chrome Driver Opened and navigated to Url
+2020-04-11 15:01:41,741 [main] INFO LogDemo - Chrome Driver Opened and navigated to Url
+2020-04-11 15:02:03,454 [main] INFO LogDemo - successfully clicks on Login button
+2020-04-11 15:02:08,182 [main] INFO LogDemo - Successfuly closed all PopUps
+2020-04-11 15:02:14,462 [main] INFO LogDemo - successfully Read Data From Excel Sheet
+2020-04-11 15:02:14,551 [main] INFO LogDemo - Successfully login to Naukri Website
+2020-04-11 15:02:36,837 [main] INFO LogDemo - Successfully Logout
+2020-04-11 15:02:37,584 [main] INFO LogDemo - successfully close the Browser
+2020-04-11 15:02:37,598 [main] INFO LogDemo - Chrome Driver Opened and navigated to Url
+2020-04-11 15:02:52,384 [main] INFO LogDemo - successfully clicks on Login button
+2020-04-11 15:02:56,515 [main] INFO LogDemo - Successfuly closed all PopUps
+2020-04-11 15:02:57,061 [main] INFO LogDemo - successfully Read Data From Excel Sheet
+2020-04-11 15:02:57,177 [main] INFO LogDemo - Successfully login to Naukri Website
+2020-04-11 15:03:16,581 [main] INFO LogDemo - Successfully Logout
+2020-04-11 15:03:17,201 [main] INFO LogDemo - successfully close the Browser
+2020-04-11 15:03:17,570 [main] INFO LogDemo - Chrome Driver Opened and navigated to Url
+2020-04-11 15:03:40,794 [main] INFO LogDemo - successfully clicks on Login button
+2020-04-11 15:03:44,946 [main] INFO LogDemo - Successfuly closed all PopUps
+2020-04-11 15:03:45,563 [main] INFO LogDemo - successfully Read Data initialized in feature
+2020-04-11 15:03:45,672 [main] INFO LogDemo - Successfully login to Naukri Website
+2020-04-11 15:03:50,965 [main] INFO LogDemo - successfully get text from Home Page
+2020-04-11 15:04:11,125 [main] INFO LogDemo - Successfully Logout
+2020-04-11 15:04:11,718 [main] INFO LogDemo - successfully close the Browser
+2020-04-11 15:04:11,793 [main] INFO LogDemo - Chrome Driver Opened and navigated to Url
+2020-04-11 15:04:29,668 [main] INFO LogDemo - successfully clicks on Login button
+2020-04-11 15:04:33,914 [main] INFO LogDemo - Successfuly closed all PopUps
+2020-04-11 15:04:35,530 [main] INFO LogDemo - successfully Read Data initialized in feature
+2020-04-11 15:04:35,608 [main] INFO LogDemo - Successfully login to Naukri Website
+2020-04-11 15:04:55,968 [main] INFO LogDemo - Successfuly sends Data to Search box
+2020-04-11 15:05:10,093 [main] INFO LogDemo - Successfully take Screenshot
+2020-04-11 15:05:11,431 [main] INFO LogDemo - successfully close the Browser
+2020-04-11 15:05:11,630 [main] INFO LogDemo - Chrome Driver Opened and navigated to Url
+2020-04-11 15:05:30,427 [main] INFO LogDemo - successfully clicks on Login button
+2020-04-11 15:05:34,556 [main] INFO LogDemo - Successfuly closed all PopUps
+2020-04-11 15:05:36,687 [main] INFO LogDemo - Passed Invalid Credintials
+2020-04-11 15:05:36,797 [main] INFO LogDemo - Login Failed
+2020-04-11 15:05:42,363 [main] INFO LogDemo - Successfully takes screenshot
+2020-04-11 15:05:43,546 [main] INFO LogDemo - successfully close the Browser
+2020-04-11 15:11:03,320 [main] INFO LogDemo - Chrome Driver Opened and navigated to Url
+2020-04-11 15:11:20,353 [main] INFO LogDemo - successfully clicks on Login button
+2020-04-11 15:11:24,747 [main] INFO LogDemo - Successfuly closed all PopUps
+2020-04-11 15:11:27,164 [main] INFO LogDemo - successfully Read Data From Excel Sheet
+2020-04-11 15:11:27,250 [main] INFO LogDemo - Successfully login to Naukri Website
+2020-04-11 15:11:46,797 [main] INFO LogDemo - Successfully Logout
+2020-04-11 15:11:47,424 [main] INFO LogDemo - successfully close the Browser
+2020-04-11 15:11:47,430 [main] INFO LogDemo - Chrome Driver Opened and navigated to Url
+2020-04-11 15:12:05,787 [main] INFO LogDemo - successfully clicks on Login button
+2020-04-11 15:12:10,318 [main] INFO LogDemo - Successfuly closed all PopUps
+2020-04-11 15:12:10,702 [main] INFO LogDemo - successfully Read Data From Excel Sheet
+2020-04-11 15:12:10,799 [main] INFO LogDemo - Successfully login to Naukri Website
+2020-04-11 15:12:33,716 [main] INFO LogDemo - Successfully Logout
+2020-04-11 15:12:34,306 [main] INFO LogDemo - successfully close the Browser
+2020-04-11 15:12:34,478 [main] INFO LogDemo - Chrome Driver Opened and navigated to Url
+2020-04-11 15:12:50,144 [main] INFO LogDemo - successfully clicks on Login button
+2020-04-11 15:12:54,247 [main] INFO LogDemo - Successfuly closed all PopUps
+2020-04-11 15:12:54,715 [main] INFO LogDemo - successfully Read Data initialized in feature
+2020-04-11 15:12:54,792 [main] INFO LogDemo - Successfully login to Naukri Website
+2020-04-11 15:13:04,961 [main] INFO LogDemo - successfully get text from Home Page
+2020-04-11 15:13:19,683 [main] INFO LogDemo - Successfully Logout
+2020-04-11 15:13:20,275 [main] INFO LogDemo - successfully close the Browser
+2020-04-11 15:13:20,311 [main] INFO LogDemo - Chrome Driver Opened and navigated to Url
+2020-04-11 15:13:33,056 [main] INFO LogDemo - successfully clicks on Login button
+2020-04-11 15:13:37,226 [main] INFO LogDemo - Successfuly closed all PopUps
+2020-04-11 15:13:37,515 [main] INFO LogDemo - successfully Read Data initialized in feature
+2020-04-11 15:13:37,583 [main] INFO LogDemo - Successfully login to Naukri Website
+2020-04-11 15:13:53,042 [main] INFO LogDemo - Successfuly sends Data to Search box
+2020-04-11 15:13:53,663 [main] INFO LogDemo - Successfully take Screenshot
+2020-04-11 15:13:54,578 [main] INFO LogDemo - successfully close the Browser
+2020-04-11 15:13:54,635 [main] INFO LogDemo - Chrome Driver Opened and navigated to Url
+2020-04-11 15:14:10,819 [main] INFO LogDemo - successfully clicks on Login button
+2020-04-11 15:14:14,915 [main] INFO LogDemo - Successfuly closed all PopUps
+2020-04-11 15:14:15,487 [main] INFO LogDemo - Passed Invalid Credintials
+2020-04-11 15:14:15,554 [main] INFO LogDemo - Login Failed
+2020-04-11 15:14:15,988 [main] INFO LogDemo - Successfully takes screenshot
+2020-04-11 15:14:16,774 [main] INFO LogDemo - successfully close the Browser
+2020-04-11 15:47:43,544 [main] INFO LogDemo - Chrome Driver Opened and navigated to Url
+2020-04-11 15:48:02,525 [main] INFO LogDemo - successfully clicks on Login button
+2020-04-11 15:48:07,151 [main] INFO LogDemo - Successfuly closed all PopUps
+2020-04-11 15:48:11,244 [main] INFO LogDemo - successfully Read Data From Excel Sheet
+2020-04-11 15:48:11,317 [main] INFO LogDemo - Successfully login to Naukri Website
+2020-04-11 15:48:29,021 [main] INFO LogDemo - Successfully Logout
+2020-04-11 15:48:29,677 [main] INFO LogDemo - successfully close the Browser
+2020-04-11 15:48:29,709 [main] INFO LogDemo - Chrome Driver Opened and navigated to Url
+2020-04-11 15:48:47,885 [main] INFO LogDemo - successfully clicks on Login button
+2020-04-11 15:48:52,050 [main] INFO LogDemo - Successfuly closed all PopUps
+2020-04-11 15:48:52,569 [main] INFO LogDemo - successfully Read Data From Excel Sheet
+2020-04-11 15:48:52,672 [main] INFO LogDemo - Successfully login to Naukri Website
+2020-04-11 15:49:12,344 [main] INFO LogDemo - Successfully Logout
+2020-04-11 15:49:13,063 [main] INFO LogDemo - successfully close the Browser
+2020-04-11 15:49:13,268 [main] INFO LogDemo - Chrome Driver Opened and navigated to Url
+2020-04-11 15:49:29,307 [main] INFO LogDemo - successfully clicks on Login button
+2020-04-11 15:49:33,450 [main] INFO LogDemo - Successfuly closed all PopUps
+2020-04-11 15:49:34,036 [main] INFO LogDemo - successfully Read Data initialized in feature
+2020-04-11 15:49:34,118 [main] INFO LogDemo - Successfully login to Naukri Website
+2020-04-11 15:49:39,345 [main] INFO LogDemo - successfully get text from Home Page
+2020-04-11 15:49:56,018 [main] INFO LogDemo - Successfully Logout
+2020-04-11 15:49:56,631 [main] INFO LogDemo - successfully close the Browser
+2020-04-11 15:49:56,749 [main] INFO LogDemo - Chrome Driver Opened and navigated to Url
+2020-04-11 15:50:13,042 [main] INFO LogDemo - successfully clicks on Login button
+2020-04-11 15:50:17,230 [main] INFO LogDemo - Successfuly closed all PopUps
+2020-04-11 15:50:18,915 [main] INFO LogDemo - successfully Read Data initialized in feature
+2020-04-11 15:50:19,006 [main] INFO LogDemo - Successfully login to Naukri Website
+2020-04-11 15:50:35,005 [main] INFO LogDemo - Successfuly sends Data to Search box
+2020-04-11 15:50:35,948 [main] INFO LogDemo - Successfully take Screenshot
+2020-04-11 15:50:36,997 [main] INFO LogDemo - successfully close the Browser
+2020-04-11 15:50:37,129 [main] INFO LogDemo - Chrome Driver Opened and navigated to Url
+2020-04-11 15:50:55,894 [main] INFO LogDemo - successfully clicks on Login button
+2020-04-11 15:51:00,071 [main] INFO LogDemo - Successfuly closed all PopUps
+2020-04-11 15:51:00,479 [main] INFO LogDemo - Passed Invalid Credintials
+2020-04-11 15:51:00,567 [main] INFO LogDemo - Login Failed
+2020-04-11 15:51:01,108 [main] INFO LogDemo - Successfully takes screenshot
+2020-04-11 15:51:01,974 [main] INFO LogDemo - successfully close the Browser
+2020-04-11 17:18:55,748 [main] INFO LogDemo - Chrome Driver Opened and navigated to Url
+2020-04-11 17:19:13,069 [main] INFO LogDemo - successfully clicks on Login button
+2020-04-11 17:19:17,836 [main] INFO LogDemo - Successfuly closed all PopUps
+2020-04-11 17:19:22,951 [main] INFO LogDemo - successfully Read Data From Excel Sheet
+2020-04-11 17:19:23,141 [main] INFO LogDemo - Chrome Driver Opened and navigated to Url
+2020-04-11 17:19:48,292 [main] INFO LogDemo - successfully clicks on Login button
+2020-04-11 17:19:52,439 [main] INFO LogDemo - Successfuly closed all PopUps
+2020-04-11 17:19:52,870 [main] INFO LogDemo - successfully Read Data From Excel Sheet
+2020-04-11 17:19:54,088 [main] INFO LogDemo - Chrome Driver Opened and navigated to Url
+2020-04-11 17:20:22,725 [main] INFO LogDemo - successfully clicks on Login button
+2020-04-11 17:20:26,972 [main] INFO LogDemo - Successfuly closed all PopUps
+2020-04-11 17:20:27,792 [main] INFO LogDemo - successfully Read Data initialized in feature
+2020-04-11 17:20:28,035 [main] INFO LogDemo - Chrome Driver Opened and navigated to Url
+2020-04-11 17:21:00,365 [main] INFO LogDemo - successfully clicks on Login button
+2020-04-11 17:21:05,162 [main] INFO LogDemo - Successfuly closed all PopUps
+2020-04-11 17:21:06,056 [main] INFO LogDemo - successfully Read Data initialized in feature
+2020-04-11 17:21:06,646 [main] INFO LogDemo - Chrome Driver Opened and navigated to Url
+2020-04-11 17:21:48,579 [main] INFO LogDemo - successfully clicks on Login button
+2020-04-11 17:21:54,435 [main] INFO LogDemo - Successfuly closed all PopUps
+2020-04-11 17:21:54,926 [main] INFO LogDemo - Passed Invalid Credintials
+2020-04-11 17:21:55,726 [main] INFO LogDemo - Login Failed
+2020-04-11 17:21:58,738 [main] INFO LogDemo - Successfully takes screenshot
+2020-04-11 17:22:00,841 [main] INFO LogDemo - successfully close the Browser
+2020-04-11 17:24:09,765 [main] INFO LogDemo - Chrome Driver Opened and navigated to Url
+2020-04-11 17:24:28,279 [main] INFO LogDemo - successfully clicks on Login button
+2020-04-11 17:24:32,894 [main] INFO LogDemo - Successfuly closed all PopUps
+2020-04-11 17:24:36,523 [main] INFO LogDemo - successfully Read Data From Excel Sheet
+2020-04-11 17:24:41,668 [main] INFO LogDemo - Successfully login to Naukri Website
+2020-04-11 17:25:01,450 [main] INFO LogDemo - Successfully Logout
+2020-04-11 17:25:02,260 [main] INFO LogDemo - successfully close the Browser
+2020-04-11 17:25:02,272 [main] INFO LogDemo - Chrome Driver Opened and navigated to Url
+2020-04-11 17:25:21,210 [main] INFO LogDemo - successfully clicks on Login button
+2020-04-11 17:25:25,370 [main] INFO LogDemo - Successfuly closed all PopUps
+2020-04-11 17:25:25,900 [main] INFO LogDemo - successfully Read Data From Excel Sheet
+2020-04-11 17:25:31,027 [main] INFO LogDemo - Successfully login to Naukri Website
+2020-04-11 17:25:50,890 [main] INFO LogDemo - Successfully Logout
+2020-04-11 17:25:51,602 [main] INFO LogDemo - successfully close the Browser
+2020-04-11 17:29:35,335 [main] INFO LogDemo - Chrome Driver Opened and navigated to Url
+2020-04-11 17:29:51,733 [main] INFO LogDemo - successfully clicks on Login button
+2020-04-11 17:29:55,976 [main] INFO LogDemo - Successfuly closed all PopUps
+2020-04-11 17:29:58,791 [main] INFO LogDemo - successfully Read Data From Excel Sheet
+2020-04-11 17:29:58,954 [main] INFO LogDemo - Chrome Driver Opened and navigated to Url
+2020-04-11 17:30:16,610 [main] INFO LogDemo - successfully clicks on Login button
+2020-04-11 17:30:21,157 [main] INFO LogDemo - Successfuly closed all PopUps
+2020-04-11 17:30:21,917 [main] INFO LogDemo - successfully Read Data From Excel Sheet
+2020-04-11 17:32:54,427 [main] INFO LogDemo - Chrome Driver Opened and navigated to Url
+2020-04-11 17:33:15,007 [main] INFO LogDemo - successfully clicks on Login button
+2020-04-11 17:33:19,182 [main] INFO LogDemo - Successfuly closed all PopUps
+2020-04-11 17:33:23,093 [main] INFO LogDemo - successfully Read Data From Excel Sheet
+2020-04-11 17:33:23,209 [main] INFO LogDemo - Successfully login to Naukri Website
+2020-04-11 17:33:44,556 [main] INFO LogDemo - Successfully Logout
+2020-04-11 17:33:46,011 [main] INFO LogDemo - successfully close the Browser
+2020-04-11 17:33:46,019 [main] INFO LogDemo - Chrome Driver Opened and navigated to Url
+2020-04-11 17:34:02,558 [main] INFO LogDemo - successfully clicks on Login button
+2020-04-11 17:34:07,389 [main] INFO LogDemo - Successfuly closed all PopUps
+2020-04-11 17:34:08,089 [main] INFO LogDemo - successfully Read Data From Excel Sheet
+2020-04-11 17:34:08,248 [main] INFO LogDemo - Successfully login to Naukri Website
+2020-04-11 17:34:30,814 [main] INFO LogDemo - Successfully Logout
+2020-04-11 17:34:31,625 [main] INFO LogDemo - successfully close the Browser
+2020-04-11 18:02:09,412 [main] INFO LogDemo - Chrome Driver Opened and navigated to Url
+2020-04-11 18:02:24,929 [main] INFO LogDemo - Successfully clicks on Login button
+2020-04-11 18:02:29,145 [main] INFO LogDemo - Successfuly closed all PopUps
+2020-04-11 18:02:30,373 [main] INFO LogDemo - Successfully Read Data From Excel Sheet
+2020-04-11 18:02:30,505 [main] INFO LogDemo - Successfully login to Naukri Website
+2020-04-11 18:02:46,820 [main] INFO LogDemo - Chrome Driver Opened and navigated to Url
+2020-04-11 18:03:02,113 [main] INFO LogDemo - Successfully clicks on Login button
+2020-04-11 18:03:06,229 [main] INFO LogDemo - Successfuly closed all PopUps
+2020-04-11 18:03:06,583 [main] INFO LogDemo - Successfully Read Data From Excel Sheet
+2020-04-11 18:03:06,650 [main] INFO LogDemo - Successfully login to Naukri Website
+2020-04-11 18:05:26,356 [main] INFO LogDemo - Chrome Driver Opened and navigated to Url
+2020-04-11 18:05:43,300 [main] INFO LogDemo - Successfully clicks on Login button
+2020-04-11 18:05:47,395 [main] INFO LogDemo - Successfuly closed all PopUps
+2020-04-11 18:05:49,474 [main] INFO LogDemo - Successfully Read Data From Excel Sheet
+2020-04-11 18:05:49,622 [main] INFO LogDemo - Successfully login to Naukri Website
+2020-04-11 18:06:05,071 [main] INFO LogDemo - Chrome Driver Opened and navigated to Url
+2020-04-11 18:06:26,113 [main] INFO LogDemo - Successfully clicks on Login button
+2020-04-11 18:06:43,359 [main] INFO LogDemo - Chrome Driver Opened and navigated to Url
+2020-04-11 18:06:58,888 [main] INFO LogDemo - Successfully clicks on Login button
+2020-04-11 18:07:02,981 [main] INFO LogDemo - Successfuly closed all PopUps
+2020-04-11 18:07:03,810 [main] INFO LogDemo - Successfully Read Data From Excel Sheet
+2020-04-11 18:07:03,973 [main] INFO LogDemo - Successfully login to Naukri Website
+2020-04-11 18:07:21,591 [main] INFO LogDemo - Successfully Logout
+2020-04-11 18:07:23,140 [main] INFO LogDemo - successfully close the Browser
+2020-04-11 18:07:23,200 [main] INFO LogDemo - Chrome Driver Opened and navigated to Url
+2020-04-11 18:07:37,191 [main] INFO LogDemo - Successfully clicks on Login button
+2020-04-11 18:07:41,281 [main] INFO LogDemo - Successfuly closed all PopUps
+2020-04-11 18:07:41,635 [main] INFO LogDemo - Successfully Read Data From Excel Sheet
+2020-04-11 18:07:41,717 [main] INFO LogDemo - Successfully login to Naukri Website
+2020-04-11 18:08:02,533 [main] INFO LogDemo - Successfully Logout
+2020-04-11 18:08:03,212 [main] INFO LogDemo - successfully close the Browser
+2020-04-11 18:10:18,508 [main] INFO LogDemo - Chrome Driver Opened and navigated to Url
+2020-04-11 18:10:34,082 [main] INFO LogDemo - Successfully clicks on Login button
+2020-04-11 18:10:38,211 [main] INFO LogDemo - Successfuly closed all PopUps
+2020-04-11 18:10:39,461 [main] INFO LogDemo - Successfully Read Data From Excel Sheet
+2020-04-11 18:10:39,541 [main] INFO LogDemo - Successfully login to Naukri Website
+2020-04-11 18:10:59,189 [main] INFO LogDemo - Chrome Driver Opened and navigated to Url
+2020-04-11 18:11:16,953 [main] INFO LogDemo - Successfully clicks on Login button
+2020-04-11 18:11:21,077 [main] INFO LogDemo - Successfuly closed all PopUps
+2020-04-11 18:11:30,884 [main] INFO LogDemo - Successfully Read Data From Excel Sheet
+2020-04-11 18:11:30,986 [main] INFO LogDemo - Successfully login to Naukri Website
+2020-04-11 18:11:46,518 [main] INFO LogDemo - Chrome Driver Opened and navigated to Url
+2020-04-11 18:12:03,921 [main] INFO LogDemo - successfully clicks on Login button
+2020-04-11 18:12:08,058 [main] INFO LogDemo - Successfuly closed all PopUps
+2020-04-11 18:12:08,490 [main] INFO LogDemo - successfully Read Data initialized in feature
+2020-04-11 18:12:56,111 [main] INFO LogDemo - Chrome Driver Opened and navigated to Url
+2020-04-11 18:13:16,802 [main] INFO LogDemo - Successfully clicks on Login button
+2020-04-11 18:13:21,104 [main] INFO LogDemo - Successfuly closed all PopUps
+2020-04-11 18:13:24,598 [main] INFO LogDemo - Successfully Read Data From Excel Sheet
+2020-04-11 18:13:24,712 [main] INFO LogDemo - Successfully login to Naukri Website
+2020-04-11 18:13:44,368 [main] INFO LogDemo - Chrome Driver Opened and navigated to Url
+2020-04-11 18:13:59,917 [main] INFO LogDemo - Successfully clicks on Login button
+2020-04-11 18:14:04,017 [main] INFO LogDemo - Successfuly closed all PopUps
+2020-04-11 18:14:04,793 [main] INFO LogDemo - Successfully Read Data From Excel Sheet
+2020-04-11 18:14:04,885 [main] INFO LogDemo - Successfully login to Naukri Website
+2020-04-11 18:14:24,873 [main] INFO LogDemo - Chrome Driver Opened and navigated to Url
+2020-04-11 18:14:39,167 [main] INFO LogDemo - successfully clicks on Login button
+2020-04-11 18:14:43,283 [main] INFO LogDemo - Successfuly closed all PopUps
+2020-04-11 18:14:43,815 [main] INFO LogDemo - successfully Read Data initialized in feature
+2020-04-11 18:14:43,899 [main] INFO LogDemo - Successfully login to Naukri Website
+2020-04-11 18:14:48,936 [main] INFO LogDemo - successfully get text from Home Page
+2020-04-11 18:15:03,410 [main] INFO LogDemo - Successfully Logout
+2020-04-11 18:15:04,346 [main] INFO LogDemo - successfully close the Browser
+2020-04-11 18:15:04,396 [main] INFO LogDemo - Chrome Driver Opened and navigated to Url
+2020-04-11 18:15:20,860 [main] INFO LogDemo - successfully clicks on Login button
+2020-04-11 18:15:25,007 [main] INFO LogDemo - Successfuly closed all PopUps
+2020-04-11 18:15:25,290 [main] INFO LogDemo - successfully Read Data initialized in feature
+2020-04-11 18:15:25,448 [main] INFO LogDemo - Successfully login to Naukri Website
+2020-04-11 18:15:41,723 [main] INFO LogDemo - Successfuly sends Data to Search box
+2020-04-11 18:15:42,349 [main] INFO LogDemo - Successfully take Screenshot
+2020-04-11 18:15:43,256 [main] INFO LogDemo - successfully close the Browser
+2020-04-11 18:15:43,291 [main] INFO LogDemo - Chrome Driver Opened and navigated to Url
+2020-04-11 18:15:59,002 [main] INFO LogDemo - Successfully clicks on Login button
+2020-04-11 18:16:03,517 [main] INFO LogDemo - Successfuly closed all PopUps
+2020-04-11 18:16:04,011 [main] INFO LogDemo - Passed Invalid Credintials
+2020-04-11 18:16:04,088 [main] INFO LogDemo - Login Failed
+2020-04-11 18:16:04,544 [main] INFO LogDemo - Successfully takes screenshot
+2020-04-11 18:16:05,314 [main] INFO LogDemo - successfully close the Browser
+2020-04-11 18:18:29,209 [main] INFO LogDemo - Chrome Driver Opened and navigated to Url
+2020-04-11 18:18:44,956 [main] INFO LogDemo - Successfully clicks on Login button
+2020-04-11 18:18:49,092 [main] INFO LogDemo - Successfuly closed all PopUps
+2020-04-11 18:18:50,397 [main] INFO LogDemo - Successfully Read Data From Excel Sheet
+2020-04-11 18:18:50,482 [main] INFO LogDemo - Successfully login to Naukri Website
+2020-04-11 18:19:14,966 [main] INFO LogDemo - Successfully Logout
+2020-04-11 18:19:15,947 [main] INFO LogDemo - successfully close the Browser
+2020-04-11 18:19:15,967 [main] INFO LogDemo - Chrome Driver Opened and navigated to Url
+2020-04-11 18:19:33,947 [main] INFO LogDemo - Successfully clicks on Login button
+2020-04-11 18:19:38,052 [main] INFO LogDemo - Successfuly closed all PopUps
+2020-04-11 18:19:38,445 [main] INFO LogDemo - Successfully Read Data From Excel Sheet
+2020-04-11 18:19:38,520 [main] INFO LogDemo - Successfully login to Naukri Website
+2020-04-11 18:19:58,270 [main] INFO LogDemo - Successfully Logout
+2020-04-11 18:19:58,939 [main] INFO LogDemo - successfully close the Browser
+2020-04-11 18:19:59,013 [main] INFO LogDemo - Chrome Driver Opened and navigated to Url
+2020-04-11 18:20:13,741 [main] INFO LogDemo - successfully clicks on Login button
+2020-04-11 18:20:17,824 [main] INFO LogDemo - Successfuly closed all PopUps
+2020-04-11 18:20:18,152 [main] INFO LogDemo - successfully Read Data initialized in feature
+2020-04-11 18:20:18,234 [main] INFO LogDemo - Successfully login to Naukri Website
+2020-04-11 18:20:23,268 [main] INFO LogDemo - successfully get text from Home Page
+2020-04-11 18:20:38,866 [main] INFO LogDemo - Successfully Logout
+2020-04-11 18:20:39,499 [main] INFO LogDemo - successfully close the Browser
+2020-04-11 18:20:39,532 [main] INFO LogDemo - Chrome Driver Opened and navigated to Url
+2020-04-11 18:20:56,481 [main] INFO LogDemo - successfully clicks on Login button
+2020-04-11 18:21:00,622 [main] INFO LogDemo - Successfuly closed all PopUps
+2020-04-11 18:21:00,939 [main] INFO LogDemo - successfully Read Data initialized in feature
+2020-04-11 18:21:01,048 [main] INFO LogDemo - Successfully login to Naukri Website
+2020-04-11 18:21:18,145 [main] INFO LogDemo - Successfuly sends Data to Search box
+2020-04-11 18:21:18,876 [main] INFO LogDemo - Successfully take Screenshot
+2020-04-11 18:21:19,882 [main] INFO LogDemo - successfully close the Browser
+2020-04-11 18:21:19,929 [main] INFO LogDemo - Chrome Driver Opened and navigated to Url
+2020-04-11 18:21:33,774 [main] INFO LogDemo - Successfully clicks on Login button
+2020-04-11 18:21:38,003 [main] INFO LogDemo - Successfuly closed all PopUps
+2020-04-11 18:21:38,485 [main] INFO LogDemo - Passed Invalid Credintials
+2020-04-11 18:21:38,556 [main] INFO LogDemo - Login Failed
+2020-04-11 18:21:39,026 [main] INFO LogDemo - Successfully takes screenshot
+2020-04-11 18:21:39,769 [main] INFO LogDemo - successfully close the Browser
+2020-04-11 18:26:17,903 [main] INFO LogDemo - Chrome Driver Opened and navigated to Url
+2020-04-11 18:26:37,871 [main] INFO LogDemo - Chrome Driver Opened and navigated to Url
+2020-04-11 18:26:54,788 [main] INFO LogDemo - Successfully clicks on Login button
+2020-04-11 18:26:58,937 [main] INFO LogDemo - Successfuly closed all PopUps
+2020-04-11 18:27:01,450 [main] INFO LogDemo - Successfully Read Data From Excel Sheet
+2020-04-11 18:27:01,535 [main] INFO LogDemo - Successfully login to Naukri Website
+2020-04-11 18:27:21,920 [main] INFO LogDemo - Successfully Logout
+2020-04-11 18:27:22,888 [main] INFO LogDemo - successfully close the Browser
+2020-04-11 18:27:22,919 [main] INFO LogDemo - Chrome Driver Opened and navigated to Url
+2020-04-11 18:27:37,683 [main] INFO LogDemo - Successfully clicks on Login button
+2020-04-11 18:27:41,789 [main] INFO LogDemo - Successfuly closed all PopUps
+2020-04-11 18:27:42,140 [main] INFO LogDemo - Successfully Read Data From Excel Sheet
+2020-04-11 18:27:42,212 [main] INFO LogDemo - Successfully login to Naukri Website
+2020-04-11 18:27:58,612 [main] INFO LogDemo - Chrome Driver Opened and navigated to Url
+2020-04-11 18:28:18,807 [main] INFO LogDemo - Chrome Driver Opened and navigated to Url
+2020-04-11 18:28:34,558 [main] INFO LogDemo - Successfully clicks on Login button
+2020-04-11 18:28:38,774 [main] INFO LogDemo - Successfuly closed all PopUps
+2020-04-11 18:28:41,637 [main] INFO LogDemo - Successfully Read Data From Excel Sheet
+2020-04-11 18:28:41,772 [main] INFO LogDemo - Successfully login to Naukri Website
+2020-04-11 18:29:01,567 [main] INFO LogDemo - Successfully Logout
+2020-04-11 18:29:02,518 [main] INFO LogDemo - successfully close the Browser
+2020-04-11 18:29:02,538 [main] INFO LogDemo - Chrome Driver Opened and navigated to Url
+2020-04-11 18:29:16,325 [main] INFO LogDemo - Successfully clicks on Login button
+2020-04-11 18:29:20,465 [main] INFO LogDemo - Successfuly closed all PopUps
+2020-04-11 18:29:20,879 [main] INFO LogDemo - Successfully Read Data From Excel Sheet
+2020-04-11 18:29:20,942 [main] INFO LogDemo - Successfully login to Naukri Website
+2020-04-11 18:29:40,704 [main] INFO LogDemo - Successfully Logout
+2020-04-11 18:29:41,331 [main] INFO LogDemo - successfully close the Browser
+2020-04-11 18:29:41,436 [main] INFO LogDemo - Chrome Driver Opened and navigated to Url
+2020-04-11 18:29:57,052 [main] INFO LogDemo - successfully clicks on Login button
+2020-04-11 18:30:01,146 [main] INFO LogDemo - Successfuly closed all PopUps
+2020-04-11 18:30:01,430 [main] INFO LogDemo - successfully Read Data initialized in feature
+2020-04-11 18:30:01,493 [main] INFO LogDemo - Successfully login to Naukri Website
+2020-04-11 18:30:06,966 [main] INFO LogDemo - successfully get text from Home Page
+2020-04-11 18:30:21,732 [main] INFO LogDemo - Successfully Logout
+2020-04-11 18:30:22,356 [main] INFO LogDemo - successfully close the Browser
+2020-04-11 18:30:22,533 [main] INFO LogDemo - Chrome Driver Opened and navigated to Url
+2020-04-11 18:30:40,419 [main] INFO LogDemo - successfully clicks on Login button
+2020-04-11 18:30:44,537 [main] INFO LogDemo - Successfuly closed all PopUps
+2020-04-11 18:30:44,857 [main] INFO LogDemo - successfully Read Data initialized in feature
+2020-04-11 18:30:44,936 [main] INFO LogDemo - Successfully login to Naukri Website
+2020-04-11 18:31:02,691 [main] INFO LogDemo - Successfuly sends Data to Search box
+2020-04-11 18:31:03,931 [main] INFO LogDemo - Successfully take Screenshot
+2020-04-11 18:31:07,444 [main] INFO LogDemo - successfully close the Browser
+2020-04-11 18:31:07,491 [main] INFO LogDemo - Chrome Driver Opened and navigated to Url
+2020-04-11 18:31:21,877 [main] INFO LogDemo - Successfully clicks on Login button
+2020-04-11 18:31:25,970 [main] INFO LogDemo - Successfuly closed all PopUps
+2020-04-11 18:31:26,335 [main] INFO LogDemo - Passed Invalid Credintials
+2020-04-11 18:31:26,413 [main] INFO LogDemo - Login Failed
+2020-04-11 18:31:26,906 [main] INFO LogDemo - Successfully takes screenshot
+2020-04-11 18:31:28,870 [main] INFO LogDemo - successfully close the Browser
+2020-04-11 18:39:14,614 [main] INFO LogDemo - Chrome Driver Opened and navigated to Url
+2020-04-11 18:39:35,448 [main] INFO LogDemo - Successfully clicks on Login button
+2020-04-11 18:39:39,560 [main] INFO LogDemo - Successfuly closed all PopUps
+2020-04-11 18:39:41,726 [main] INFO LogDemo - Successfully Read Data From Excel Sheet
+2020-04-11 18:39:41,805 [main] INFO LogDemo - Successfully login to Naukri Website
+2020-04-11 18:40:01,388 [main] INFO LogDemo - Successfully Logout
+2020-04-11 18:40:02,293 [main] INFO LogDemo - successfully close the Browser
+2020-04-11 18:40:02,299 [main] INFO LogDemo - Chrome Driver Opened and navigated to Url
+2020-04-11 18:40:17,075 [main] INFO LogDemo - Successfully clicks on Login button
+2020-04-11 18:40:21,234 [main] INFO LogDemo - Successfuly closed all PopUps
+2020-04-11 18:40:21,527 [main] INFO LogDemo - Successfully Read Data From Excel Sheet
+2020-04-11 18:40:21,600 [main] INFO LogDemo - Successfully login to Naukri Website
+2020-04-11 18:40:41,144 [main] INFO LogDemo - Successfully Logout
+2020-04-11 18:40:41,791 [main] INFO LogDemo - successfully close the Browser
+2020-04-11 18:40:41,894 [main] INFO LogDemo - Chrome Driver Opened and navigated to Url
+2020-04-11 18:40:58,923 [main] INFO LogDemo - successfully clicks on Login button
+2020-04-11 18:41:03,084 [main] INFO LogDemo - Successfuly closed all PopUps
+2020-04-11 18:41:03,600 [main] INFO LogDemo - successfully Read Data initialized in feature
+2020-04-11 18:41:03,697 [main] INFO LogDemo - Successfully login to Naukri Website
+2020-04-11 18:41:08,830 [main] INFO LogDemo - successfully get text from Home Page
+2020-04-11 18:41:24,735 [main] INFO LogDemo - Successfully Logout
+2020-04-11 18:41:25,408 [main] INFO LogDemo - successfully close the Browser
+2020-04-11 18:41:25,445 [main] INFO LogDemo - Chrome Driver Opened and navigated to Url
+2020-04-11 18:41:38,772 [main] INFO LogDemo - successfully clicks on Login button
+2020-04-11 18:41:42,945 [main] INFO LogDemo - Successfuly closed all PopUps
+2020-04-11 18:41:43,379 [main] INFO LogDemo - successfully Read Data initialized in feature
+2020-04-11 18:41:43,742 [main] INFO LogDemo - Successfully login to Naukri Website
+2020-04-11 18:41:59,843 [main] INFO LogDemo - Successfuly sends Data to Search box
+2020-04-11 18:42:00,712 [main] INFO LogDemo - Successfully take Screenshot
+2020-04-11 18:42:01,857 [main] INFO LogDemo - successfully close the Browser
+2020-04-11 18:42:01,927 [main] INFO LogDemo - Chrome Driver Opened and navigated to Url
+2020-04-11 18:42:18,091 [main] INFO LogDemo - Successfully clicks on Login button
+2020-04-11 18:42:22,245 [main] INFO LogDemo - Successfuly closed all PopUps
+2020-04-11 18:42:22,732 [main] INFO LogDemo - Passed Invalid Credintials
+2020-04-11 18:42:22,826 [main] INFO LogDemo - Login Failed
+2020-04-11 18:42:23,287 [main] INFO LogDemo - Successfully takes screenshot
+2020-04-11 18:42:24,118 [main] INFO LogDemo - successfully close the Browser
+2020-04-12 12:42:47,654 [main] INFO LogDemo - Chrome Driver Opened and navigated to Url
+2020-04-12 12:43:10,685 [main] INFO LogDemo - Successfully clicks on Login button
+2020-04-12 12:43:19,515 [main] INFO LogDemo - Successfuly closed all PopUps
+2020-04-12 12:43:22,220 [main] INFO LogDemo - Successfully Read Data From Excel Sheet
+2020-04-12 12:43:22,316 [main] INFO LogDemo - Successfully login to Naukri Website
+2020-04-12 12:43:38,791 [main] INFO LogDemo - Successfully Logout
+2020-04-12 12:43:39,890 [main] INFO LogDemo - successfully close the Browser
+2020-04-12 12:43:39,904 [main] INFO LogDemo - Chrome Driver Opened and navigated to Url
+2020-04-12 12:43:54,598 [main] INFO LogDemo - Successfully clicks on Login button
+2020-04-12 12:43:58,748 [main] INFO LogDemo - Successfuly closed all PopUps
+2020-04-12 12:43:59,195 [main] INFO LogDemo - Successfully Read Data From Excel Sheet
+2020-04-12 12:43:59,270 [main] INFO LogDemo - Successfully login to Naukri Website
+2020-04-12 12:44:14,912 [main] INFO LogDemo - Successfully Logout
+2020-04-12 12:44:15,768 [main] INFO LogDemo - successfully close the Browser
+2020-04-12 12:44:16,040 [main] INFO LogDemo - Chrome Driver Opened and navigated to Url
+2020-04-12 12:44:30,549 [main] INFO LogDemo - successfully clicks on Login button
+2020-04-12 12:44:34,640 [main] INFO LogDemo - Successfuly closed all PopUps
+2020-04-12 12:44:34,946 [main] INFO LogDemo - successfully Read Data initialized in feature
+2020-04-12 12:44:35,020 [main] INFO LogDemo - Successfully login to Naukri Website
+2020-04-12 12:44:40,058 [main] INFO LogDemo - successfully get text from Home Page
+2020-04-12 12:44:51,574 [main] INFO LogDemo - Successfully Logout
+2020-04-12 12:44:52,319 [main] INFO LogDemo - successfully close the Browser
+2020-04-12 12:44:52,358 [main] INFO LogDemo - Chrome Driver Opened and navigated to Url
+2020-04-12 12:45:08,567 [main] INFO LogDemo - successfully clicks on Login button
+2020-04-12 12:45:16,774 [main] INFO LogDemo - Successfuly closed all PopUps
+2020-04-12 12:45:16,934 [main] INFO LogDemo - Chrome Driver Opened and navigated to Url
+2020-04-12 12:45:31,031 [main] INFO LogDemo - Successfully clicks on Login button
+2020-04-12 12:45:35,148 [main] INFO LogDemo - Successfuly closed all PopUps
+2020-04-12 12:45:35,489 [main] INFO LogDemo - Passed Invalid Credintials
+2020-04-12 12:45:35,575 [main] INFO LogDemo - Login Failed
+2020-04-12 12:45:36,222 [main] INFO LogDemo - Successfully takes screenshot
+2020-04-12 12:45:36,938 [main] INFO LogDemo - successfully close the Browser
+2020-04-12 12:48:45,478 [main] INFO LogDemo - Chrome Driver Opened and navigated to Url
+2020-04-12 12:49:02,404 [main] INFO LogDemo - Successfully clicks on Login button
+2020-04-12 12:49:10,785 [main] INFO LogDemo - Successfuly closed all PopUps
+2020-04-12 12:49:13,130 [main] INFO LogDemo - Successfully Read Data From Excel Sheet
+2020-04-12 12:49:13,255 [main] INFO LogDemo - Successfully login to Naukri Website
+2020-04-12 12:49:28,917 [main] INFO LogDemo - Successfully Logout
+2020-04-12 12:49:30,060 [main] INFO LogDemo - successfully close the Browser
+2020-04-12 12:49:30,098 [main] INFO LogDemo - Chrome Driver Opened and navigated to Url
+2020-04-12 12:49:43,531 [main] INFO LogDemo - Successfully clicks on Login button
+2020-04-12 12:49:47,647 [main] INFO LogDemo - Successfuly closed all PopUps
+2020-04-12 12:49:48,018 [main] INFO LogDemo - Successfully Read Data From Excel Sheet
+2020-04-12 12:49:48,099 [main] INFO LogDemo - Successfully login to Naukri Website
+2020-04-12 12:50:03,823 [main] INFO LogDemo - Successfully Logout
+2020-04-12 12:50:04,538 [main] INFO LogDemo - successfully close the Browser
+2020-04-12 12:50:04,665 [main] INFO LogDemo - Chrome Driver Opened and navigated to Url
+2020-04-12 12:50:18,318 [main] INFO LogDemo - successfully clicks on Login button
+2020-04-12 12:50:26,632 [main] INFO LogDemo - Successfuly closed all PopUps
+2020-04-12 12:50:27,347 [main] INFO LogDemo - successfully Read Data initialized in feature
+2020-04-12 12:50:27,434 [main] INFO LogDemo - Successfully login to Naukri Website
+2020-04-12 12:50:32,923 [main] INFO LogDemo - successfully get text from Home Page
+2020-04-12 12:50:43,402 [main] INFO LogDemo - Successfully Logout
+2020-04-12 12:50:44,131 [main] INFO LogDemo - successfully close the Browser
+2020-04-12 12:50:44,189 [main] INFO LogDemo - Chrome Driver Opened and navigated to Url
+2020-04-12 12:50:59,360 [main] INFO LogDemo - successfully clicks on Login button
+2020-04-12 12:51:07,584 [main] INFO LogDemo - Successfuly closed all PopUps
+2020-04-12 12:51:07,815 [main] INFO LogDemo - successfully Read Data initialized in feature
+2020-04-12 12:51:07,893 [main] INFO LogDemo - Successfully login to Naukri Website
+2020-04-12 12:51:23,445 [main] INFO LogDemo - Successfuly sends Data to Search box
+2020-04-12 12:51:25,493 [main] INFO LogDemo - Successfully take Screenshot
+2020-04-12 12:51:26,536 [main] INFO LogDemo - successfully close the Browser
+2020-04-12 12:51:26,577 [main] INFO LogDemo - Chrome Driver Opened and navigated to Url
+2020-04-12 12:51:41,275 [main] INFO LogDemo - Successfully clicks on Login button
+2020-04-12 12:51:45,367 [main] INFO LogDemo - Successfuly closed all PopUps
+2020-04-12 12:51:45,738 [main] INFO LogDemo - Passed Invalid Credintials
+2020-04-12 12:51:45,825 [main] INFO LogDemo - Login Failed
+2020-04-12 12:51:46,352 [main] INFO LogDemo - Successfully takes screenshot
+2020-04-12 12:51:47,082 [main] INFO LogDemo - successfully close the Browser
+2020-04-12 19:44:21,331 [main] INFO LogDemo - Chrome Driver Opened and navigated to Url
+2020-04-12 19:44:42,436 [main] INFO LogDemo - Successfully clicks on Login button
+2020-04-12 19:44:51,133 [main] INFO LogDemo - Successfuly closed all PopUps
+2020-04-12 19:44:55,507 [main] INFO LogDemo - Successfully Read Data From Excel Sheet
+2020-04-12 19:44:55,619 [main] INFO LogDemo - Successfully login to Naukri Website
+2020-04-12 19:45:11,533 [main] INFO LogDemo - Successfully Logout
+2020-04-12 19:45:12,740 [main] INFO LogDemo - successfully close the Browser
+2020-04-12 19:45:12,772 [main] INFO LogDemo - Chrome Driver Opened and navigated to Url
+2020-04-12 19:45:27,868 [main] INFO LogDemo - Successfully clicks on Login button
+2020-04-12 19:45:32,016 [main] INFO LogDemo - Successfuly closed all PopUps
+2020-04-12 19:45:34,041 [main] INFO LogDemo - Successfully Read Data From Excel Sheet
+2020-04-12 19:45:34,183 [main] INFO LogDemo - Successfully login to Naukri Website
+2020-04-12 19:45:54,120 [main] INFO LogDemo - Successfully Logout
+2020-04-12 19:45:54,928 [main] INFO LogDemo - successfully close the Browser
+2020-04-12 19:45:55,121 [main] INFO LogDemo - Chrome Driver Opened and navigated to Url
+2020-04-12 19:46:12,171 [main] INFO LogDemo - successfully clicks on Login button
+2020-04-12 19:46:20,419 [main] INFO LogDemo - Successfuly closed all PopUps
+2020-04-12 19:46:20,704 [main] INFO LogDemo - successfully Read Data initialized in feature
+2020-04-12 19:46:20,789 [main] INFO LogDemo - Successfully login to Naukri Website
+2020-04-12 19:46:25,897 [main] INFO LogDemo - successfully get text from Home Page
+2020-04-12 19:46:36,500 [main] INFO LogDemo - Successfully Logout
+2020-04-12 19:46:37,511 [main] INFO LogDemo - successfully close the Browser
+2020-04-12 19:46:37,584 [main] INFO LogDemo - Chrome Driver Opened and navigated to Url
+2020-04-12 19:46:50,985 [main] INFO LogDemo - successfully clicks on Login button
+2020-04-12 19:46:55,124 [main] INFO LogDemo - Successfuly closed all PopUps
+2020-04-12 19:46:55,561 [main] INFO LogDemo - successfully Read Data initialized in feature
+2020-04-12 19:46:55,698 [main] INFO LogDemo - Successfully login to Naukri Website
+2020-04-12 19:47:11,255 [main] INFO LogDemo - Successfuly sends Data to Search box
+2020-04-12 19:47:13,149 [main] INFO LogDemo - Successfully take Screenshot
+2020-04-12 19:47:14,662 [main] INFO LogDemo - successfully close the Browser
+2020-04-12 19:47:14,706 [main] INFO LogDemo - Chrome Driver Opened and navigated to Url
+2020-04-12 19:47:29,284 [main] INFO LogDemo - Successfully clicks on Login button
+2020-04-12 19:47:33,411 [main] INFO LogDemo - Successfuly closed all PopUps
+2020-04-12 19:47:34,015 [main] INFO LogDemo - Passed Invalid Credintials
+2020-04-12 19:47:34,184 [main] INFO LogDemo - Login Failed
+2020-04-12 19:47:34,742 [main] INFO LogDemo - Successfully takes screenshot
+2020-04-12 19:47:35,526 [main] INFO LogDemo - successfully close the Browser
+2020-04-12 20:42:47,308 [main] INFO LogDemo - Chrome Driver Opened and navigated to Url
+2020-04-12 20:42:47,669 [main] INFO LogDemo - Successfully clicks on Login button
+2020-04-12 20:42:55,925 [main] INFO LogDemo - Successfuly closed all PopUps
+2020-04-12 20:42:58,104 [main] INFO LogDemo - Successfully Read Data From Excel Sheet
+2020-04-12 20:42:58,214 [main] INFO LogDemo - Successfully login to Naukri Website
+2020-04-12 20:43:15,554 [main] INFO LogDemo - Successfully Logout
+2020-04-12 20:43:17,035 [main] INFO LogDemo - successfully close the Browser
+2020-04-12 20:43:29,680 [main] INFO LogDemo - Chrome Driver Opened and navigated to Url
+2020-04-12 20:43:30,394 [main] INFO LogDemo - Successfully clicks on Login button
+2020-04-12 20:43:38,642 [main] INFO LogDemo - Successfuly closed all PopUps
+2020-04-12 20:43:39,264 [main] INFO LogDemo - Successfully Read Data From Excel Sheet
+2020-04-12 20:43:39,431 [main] INFO LogDemo - Successfully login to Naukri Website
+2020-04-12 20:44:10,096 [main] INFO LogDemo - Successfully Logout
+2020-04-12 20:44:10,969 [main] INFO LogDemo - successfully close the Browser
+2020-04-12 20:44:23,858 [main] INFO LogDemo - Chrome Driver Opened and navigated to Url
+2020-04-12 20:44:24,481 [main] INFO LogDemo - successfully clicks on Login button
+2020-04-12 20:44:32,965 [main] INFO LogDemo - Successfuly closed all PopUps
+2020-04-12 20:44:33,453 [main] INFO LogDemo - successfully Read Data initialized in feature
+2020-04-12 20:44:33,604 [main] INFO LogDemo - Successfully login to Naukri Website
+2020-04-12 20:44:38,648 [main] INFO LogDemo - successfully get text from Home Page
+2020-04-12 20:44:49,193 [main] INFO LogDemo - Successfully Logout
+2020-04-12 20:44:50,062 [main] INFO LogDemo - successfully close the Browser
+2020-04-12 20:45:06,452 [main] INFO LogDemo - Chrome Driver Opened and navigated to Url
+2020-04-12 20:45:11,566 [main] INFO LogDemo - successfully clicks on Login button
+2020-04-12 20:45:19,848 [main] INFO LogDemo - Successfuly closed all PopUps
+2020-04-12 20:45:20,199 [main] INFO LogDemo - successfully Read Data initialized in feature
+2020-04-12 20:45:20,346 [main] INFO LogDemo - Successfully login to Naukri Website
+2020-04-12 20:45:36,394 [main] INFO LogDemo - Successfuly sends Data to Search box
+2020-04-12 20:45:37,360 [main] INFO LogDemo - Successfully take Screenshot
+2020-04-12 20:45:38,550 [main] INFO LogDemo - successfully close the Browser
+2020-04-12 20:46:10,677 [main] INFO LogDemo - Chrome Driver Opened and navigated to Url
+2020-04-12 20:46:10,890 [main] INFO LogDemo - Successfully clicks on Login button
+2020-04-12 20:46:19,157 [main] INFO LogDemo - Successfuly closed all PopUps
+2020-04-12 20:46:19,751 [main] INFO LogDemo - Passed Invalid Credintials
+2020-04-12 20:46:19,884 [main] INFO LogDemo - Login Failed
+2020-04-12 20:46:20,656 [main] INFO LogDemo - Successfully takes screenshot
+2020-04-12 20:46:21,481 [main] INFO LogDemo - successfully close the Browser
+2020-04-12 21:02:29,722 [main] INFO LogDemo - Chrome Driver Opened and navigated to Url
+2020-04-12 21:03:11,589 [main] INFO LogDemo - Chrome Driver Opened and navigated to Url
+2020-04-12 21:03:12,117 [main] INFO LogDemo - successfully clicks on Login button
+2020-04-12 21:03:12,496 [main] INFO LogDemo - Successfuly closed all PopUps
+2020-04-12 21:03:12,690 [main] INFO LogDemo - successfully Read Data initialized in feature
+2020-04-12 21:03:13,315 [main] INFO LogDemo - Successfully login to Naukri Website
+2020-04-12 21:04:25,556 [main] INFO LogDemo - Chrome Driver Opened and navigated to Url
+2020-04-12 21:04:25,848 [main] INFO LogDemo - Successfully clicks on Login button
+2020-04-12 21:04:25,982 [main] INFO LogDemo - Successfuly closed all PopUps
+2020-04-12 21:04:28,261 [main] INFO LogDemo - Successfully Read Data From Excel Sheet
+2020-04-12 21:04:49,541 [main] INFO LogDemo - Chrome Driver Opened and navigated to Url
+2020-04-12 21:04:49,906 [main] INFO LogDemo - Successfully clicks on Login button
+2020-04-12 21:04:50,048 [main] INFO LogDemo - Successfuly closed all PopUps
+2020-04-12 21:04:50,288 [main] INFO LogDemo - Successfully Read Data From Excel Sheet
+2020-04-12 21:04:50,564 [main] INFO LogDemo - Successfully login to Naukri Website
+2020-04-12 21:05:55,150 [main] INFO LogDemo - Chrome Driver Opened and navigated to Url
+2020-04-12 21:05:55,553 [main] INFO LogDemo - Successfully clicks on Login button
+2020-04-12 21:05:55,751 [main] INFO LogDemo - Successfuly closed all PopUps
+2020-04-12 21:05:57,277 [main] INFO LogDemo - Successfully Read Data From Excel Sheet
+2020-04-12 21:06:13,935 [main] INFO LogDemo - Chrome Driver Opened and navigated to Url
+2020-04-12 21:07:15,624 [main] INFO LogDemo - Chrome Driver Opened and navigated to Url
+2020-04-12 21:07:16,174 [main] INFO LogDemo - Successfully clicks on Login button
+2020-04-12 21:07:20,287 [main] INFO LogDemo - Successfuly closed all PopUps
+2020-04-12 21:07:23,314 [main] INFO LogDemo - Successfully Read Data From Excel Sheet
+2020-04-12 21:07:23,426 [main] INFO LogDemo - Successfully login to Naukri Website
+2020-04-12 21:07:40,758 [main] INFO LogDemo - Successfully Logout
+2020-04-12 21:07:42,369 [main] INFO LogDemo - successfully close the Browser
+2020-04-12 21:07:56,953 [main] INFO LogDemo - Chrome Driver Opened and navigated to Url
+2020-04-12 21:07:57,421 [main] INFO LogDemo - Successfully clicks on Login button
+2020-04-12 21:08:01,558 [main] INFO LogDemo - Successfuly closed all PopUps
+2020-04-12 21:08:02,020 [main] INFO LogDemo - Successfully Read Data From Excel Sheet
+2020-04-12 21:08:02,117 [main] INFO LogDemo - Successfully login to Naukri Website
+2020-04-12 21:08:17,690 [main] INFO LogDemo - Successfully Logout
+2020-04-12 21:08:19,012 [main] INFO LogDemo - successfully close the Browser
+2020-04-12 21:08:43,357 [main] INFO LogDemo - Chrome Driver Opened and navigated to Url
+2020-04-12 21:08:43,439 [main] INFO LogDemo - successfully clicks on Login button
+2020-04-12 21:08:51,661 [main] INFO LogDemo - Successfuly closed all PopUps
+2020-04-12 21:08:52,131 [main] INFO LogDemo - successfully Read Data initialized in feature
+2020-04-12 21:08:52,363 [main] INFO LogDemo - Successfully login to Naukri Website
+2020-04-12 21:08:57,432 [main] INFO LogDemo - successfully get text from Home Page
+2020-04-12 21:09:10,125 [main] INFO LogDemo - Successfully Logout
+2020-04-12 21:09:11,333 [main] INFO LogDemo - successfully close the Browser
+2020-04-12 21:09:29,366 [main] INFO LogDemo - Chrome Driver Opened and navigated to Url
+2020-04-12 21:09:29,551 [main] INFO LogDemo - successfully clicks on Login button
+2020-04-12 21:09:37,851 [main] INFO LogDemo - Successfuly closed all PopUps
+2020-04-12 21:09:38,415 [main] INFO LogDemo - successfully Read Data initialized in feature
+2020-04-12 21:09:38,666 [main] INFO LogDemo - Successfully login to Naukri Website
+2020-04-12 21:09:56,781 [main] INFO LogDemo - Successfuly sends Data to Search box
+2020-04-12 21:09:57,809 [main] INFO LogDemo - Successfully take Screenshot
+2020-04-12 21:09:59,049 [main] INFO LogDemo - successfully close the Browser
+2020-04-12 21:10:15,587 [main] INFO LogDemo - Chrome Driver Opened and navigated to Url
+2020-04-12 21:10:16,003 [main] INFO LogDemo - Successfully clicks on Login button
+2020-04-12 21:10:20,127 [main] INFO LogDemo - Successfuly closed all PopUps
+2020-04-12 21:10:20,616 [main] INFO LogDemo - Passed Invalid Credintials
+2020-04-12 21:10:20,723 [main] INFO LogDemo - Login Failed
+2020-04-12 21:10:21,332 [main] INFO LogDemo - Successfully takes screenshot
+2020-04-12 21:10:22,165 [main] INFO LogDemo - successfully close the Browser
+2020-04-12 21:19:51,753 [main] INFO LogDemo - Chrome Driver Opened and navigated to Url
+2020-04-12 21:19:57,305 [main] INFO LogDemo - Successfully clicks on Login button
+2020-04-12 21:20:05,656 [main] INFO LogDemo - Successfuly closed all PopUps
+2020-04-12 21:20:09,464 [main] INFO LogDemo - Successfully Read Data From Excel Sheet
+2020-04-12 21:20:14,656 [main] INFO LogDemo - Successfully login to Naukri Website
+2020-04-12 21:20:50,413 [main] INFO LogDemo - Successfully Logout
+2020-04-12 21:20:51,797 [main] INFO LogDemo - successfully close the Browser
+2020-04-12 21:21:05,081 [main] INFO LogDemo - Chrome Driver Opened and navigated to Url
+2020-04-12 21:21:05,453 [main] INFO LogDemo - Successfully clicks on Login button
+2020-04-12 21:21:09,612 [main] INFO LogDemo - Successfuly closed all PopUps
+2020-04-12 21:21:10,035 [main] INFO LogDemo - Successfully Read Data From Excel Sheet
+2020-04-12 21:21:10,169 [main] INFO LogDemo - Successfully login to Naukri Website
+2020-04-12 21:21:25,796 [main] INFO LogDemo - Successfully Logout
+2020-04-12 21:21:26,667 [main] INFO LogDemo - successfully close the Browser
+2020-04-12 21:21:42,652 [main] INFO LogDemo - Chrome Driver Opened and navigated to Url
+2020-04-12 21:21:42,969 [main] INFO LogDemo - successfully clicks on Login button
+2020-04-12 21:21:47,110 [main] INFO LogDemo - Successfuly closed all PopUps
+2020-04-12 21:21:47,437 [main] INFO LogDemo - successfully Read Data initialized in feature
+2020-04-12 21:21:47,512 [main] INFO LogDemo - Successfully login to Naukri Website
+2020-04-12 21:21:52,572 [main] INFO LogDemo - successfully get text from Home Page
+2020-04-12 21:22:09,633 [main] INFO LogDemo - Successfully Logout
+2020-04-12 21:22:10,521 [main] INFO LogDemo - successfully close the Browser
+2020-04-12 21:22:23,464 [main] INFO LogDemo - Chrome Driver Opened and navigated to Url
+2020-04-12 21:22:23,767 [main] INFO LogDemo - successfully clicks on Login button
+2020-04-12 21:22:27,909 [main] INFO LogDemo - Successfuly closed all PopUps
+2020-04-12 21:22:28,488 [main] INFO LogDemo - successfully Read Data initialized in feature
+2020-04-12 21:22:28,641 [main] INFO LogDemo - Successfully login to Naukri Website
+2020-04-12 21:22:44,434 [main] INFO LogDemo - Successfuly sends Data to Search box
+2020-04-12 21:22:45,361 [main] INFO LogDemo - Successfully take Screenshot
+2020-04-12 21:22:46,533 [main] INFO LogDemo - successfully close the Browser
+2020-04-12 21:22:59,651 [main] INFO LogDemo - Chrome Driver Opened and navigated to Url
+2020-04-12 21:22:59,905 [main] INFO LogDemo - Successfully clicks on Login button
+2020-04-12 21:23:04,010 [main] INFO LogDemo - Successfuly closed all PopUps
+2020-04-12 21:23:04,423 [main] INFO LogDemo - Passed Invalid Credintials
+2020-04-12 21:23:04,483 [main] INFO LogDemo - Login Failed
+2020-04-12 21:23:04,903 [main] INFO LogDemo - Successfully takes screenshot
+2020-04-12 21:23:06,507 [main] INFO LogDemo - successfully close the Browser
+2020-04-13 09:11:08,219 [main] INFO LogDemo - Chrome Driver Opened and navigated to Url
+2020-04-13 09:11:08,984 [main] INFO LogDemo - Successfully clicks on Login button
+2020-04-13 09:11:17,515 [main] INFO LogDemo - Successfuly closed all PopUps
+2020-04-13 09:11:19,841 [main] INFO LogDemo - Successfully Read Data From Excel Sheet
+2020-04-13 09:11:19,925 [main] INFO LogDemo - Successfully login to Naukri Website
+2020-04-13 09:11:35,397 [main] INFO LogDemo - Successfully Logout
+2020-04-13 09:11:37,511 [main] INFO LogDemo - successfully close the Browser
+2020-04-13 09:11:50,269 [main] INFO LogDemo - Chrome Driver Opened and navigated to Url
+2020-04-13 09:11:50,510 [main] INFO LogDemo - Successfully clicks on Login button
+2020-04-13 09:11:54,650 [main] INFO LogDemo - Successfuly closed all PopUps
+2020-04-13 09:11:55,001 [main] INFO LogDemo - Successfully Read Data From Excel Sheet
+2020-04-13 09:11:55,060 [main] INFO LogDemo - Successfully login to Naukri Website
+2020-04-13 09:12:11,911 [main] INFO LogDemo - Successfully Logout
+2020-04-13 09:12:12,884 [main] INFO LogDemo - successfully close the Browser
+2020-04-13 09:12:28,791 [main] INFO LogDemo - Chrome Driver Opened and navigated to Url
+2020-04-13 09:12:29,083 [main] INFO LogDemo - successfully clicks on Login button
+2020-04-13 09:12:37,284 [main] INFO LogDemo - Successfuly closed all PopUps
+2020-04-13 09:12:37,511 [main] INFO LogDemo - successfully Read Data initialized in feature
+2020-04-13 09:12:37,594 [main] INFO LogDemo - Successfully login to Naukri Website
+2020-04-13 09:12:42,629 [main] INFO LogDemo - successfully get text from Home Page
+2020-04-13 09:12:58,079 [main] INFO LogDemo - Successfully Logout
+2020-04-13 09:12:58,937 [main] INFO LogDemo - successfully close the Browser
+2020-04-13 09:13:15,224 [main] INFO LogDemo - Chrome Driver Opened and navigated to Url
+2020-04-13 09:13:15,335 [main] INFO LogDemo - successfully clicks on Login button
+2020-04-13 09:13:23,559 [main] INFO LogDemo - Successfuly closed all PopUps
+2020-04-13 09:13:23,808 [main] INFO LogDemo - successfully Read Data initialized in feature
+2020-04-13 09:13:23,884 [main] INFO LogDemo - Successfully login to Naukri Website
+2020-04-13 09:13:39,255 [main] INFO LogDemo - Successfuly sends Data to Search box
+2020-04-13 09:13:39,895 [main] INFO LogDemo - Successfully take Screenshot
+2020-04-13 09:13:40,861 [main] INFO LogDemo - successfully close the Browser
+2020-04-13 09:13:55,022 [main] INFO LogDemo - Chrome Driver Opened and navigated to Url
+2020-04-13 09:13:55,126 [main] INFO LogDemo - Successfully clicks on Login button
+2020-04-13 09:14:03,336 [main] INFO LogDemo - Successfuly closed all PopUps
+2020-04-13 09:14:03,640 [main] INFO LogDemo - Passed Invalid Credintials
+2020-04-13 09:14:03,710 [main] INFO LogDemo - Login Failed
+2020-04-13 09:14:04,195 [main] INFO LogDemo - Successfully takes screenshot
+2020-04-13 09:14:05,257 [main] INFO LogDemo - successfully close the Browser
